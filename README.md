@@ -1,6 +1,7 @@
 ## ADF2.0を用いてBluetooth経由でスキャナから直接ラベル印刷をする方法
 
-    本ガイドはDS8178をベースに説明をする。他スキャナを利用の際は設定が一部異なる可能性があることをご了承頂きたい。
+本ガイドはDS8178をベースに説明をする。
+他スキャナを利用の際は設定が一部異なる可能性があることをご了承頂きたい。
 
 </br>
 
@@ -19,7 +20,7 @@
 
 1. プリンタとスキャナをBluetooth接続する。
 
-    > Zebra BlutoothスキャナとZebra プリンタと直接接続する方法
+    > Zebra BlutoothスキャナとZebra プリンタと直接接続する方法  
     > https://github.com/shimauma-giken/Zebra-Scanner-How-to-direct-connect-bluetooth-scanner-to-printer
 
 1. JANコードなどのバーコードをスキャンする。スキャンした内容に応じたバーコードがプリンタから出力されれば設定は完了。
