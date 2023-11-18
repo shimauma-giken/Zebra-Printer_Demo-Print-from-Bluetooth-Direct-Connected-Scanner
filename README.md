@@ -7,6 +7,9 @@
 
 1. プリンタとスキャンを工場出荷状態に戻す。
 
+    > 参考資料  
+    > Scanner Facrory Reset.pdf
+
 1. 下記scncfgファイルを用いて、123ScanでADF2.0の設定をする。
 
     > 参考設定  
